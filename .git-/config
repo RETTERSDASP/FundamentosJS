@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/juanpablogdl/FundamentosJS.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[pull]
+	ff = only
+[remote "oriogin"]
+	url = https://github.com/RETTERSDASP/FundamentosJS.git
+	fetch = +refs/heads/*:refs/remotes/oriogin/*

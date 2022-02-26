@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 38dbcb4acdd98794cd7346c0b79fb7c2f93b9739 Juan De la torre <juandelatorre@MacBook-Pro-de-Juan.local> 1637615270 -0600	commit (initial): primer commit
+38dbcb4acdd98794cd7346c0b79fb7c2f93b9739 0000000000000000000000000000000000000000 Juan De la torre <juandelatorre@MacBook-Pro-de-Juan.local> 1637615275 -0600	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 38dbcb4acdd98794cd7346c0b79fb7c2f93b9739 Juan De la torre <juandelatorre@MacBook-Pro-de-Juan.local> 1637615275 -0600	Branch: renamed refs/heads/master to refs/heads/main
+38dbcb4acdd98794cd7346c0b79fb7c2f93b9739 25c97e7a247d28e350b91b7f43fbf9d05f951139 Juan De la torre <juandelatorre@MacBook-Pro-de-Juan.local> 1637623977 -0600	pull: Fast-forward
+25c97e7a247d28e350b91b7f43fbf9d05f951139 cdee3d3ed47d71d96a347fdc0812e24c999969cc Juan De la torre <juandelatorre@MacBook-Pro-de-Juan.local> 1637624557 -0600	commit: finalizando ejemplo 20
+cdee3d3ed47d71d96a347fdc0812e24c999969cc cdee3d3ed47d71d96a347fdc0812e24c999969cc Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624617 -0600	checkout: moving from main to inputText
+cdee3d3ed47d71d96a347fdc0812e24c999969cc cdee3d3ed47d71d96a347fdc0812e24c999969cc Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624642 -0600	checkout: moving from inputText to main
+cdee3d3ed47d71d96a347fdc0812e24c999969cc cdee3d3ed47d71d96a347fdc0812e24c999969cc Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624674 -0600	checkout: moving from main to main
+cdee3d3ed47d71d96a347fdc0812e24c999969cc 25c97e7a247d28e350b91b7f43fbf9d05f951139 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624714 -0600	reset: moving to HEAD^
+25c97e7a247d28e350b91b7f43fbf9d05f951139 25c97e7a247d28e350b91b7f43fbf9d05f951139 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624737 -0600	checkout: moving from main to inputTextFin
+25c97e7a247d28e350b91b7f43fbf9d05f951139 de1d50820de8a156cf92607e3ebb3f09c15f66e0 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624757 -0600	commit: Fin de Inputs
+de1d50820de8a156cf92607e3ebb3f09c15f66e0 25c97e7a247d28e350b91b7f43fbf9d05f951139 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624807 -0600	checkout: moving from inputTextFin to main
+25c97e7a247d28e350b91b7f43fbf9d05f951139 46eb3e03b9f865e1eafbb0c6a58eba23945d2faa Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637624812 -0600	pull: Fast-forward
+46eb3e03b9f865e1eafbb0c6a58eba23945d2faa 46eb3e03b9f865e1eafbb0c6a58eba23945d2faa Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637625053 -0600	checkout: moving from main to eventosFormularios
+46eb3e03b9f865e1eafbb0c6a58eba23945d2faa 378c9b6fdf19886bdce7c1639a06b7e146302193 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637625907 -0600	commit: formularios finalizado
+378c9b6fdf19886bdce7c1639a06b7e146302193 378c9b6fdf19886bdce7c1639a06b7e146302193 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637626404 -0600	checkout: moving from eventosFormularios to manipulaciondom
+378c9b6fdf19886bdce7c1639a06b7e146302193 91d3b5e57e78f17f7640d12d0dede67a451b0c61 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637626415 -0600	commit: finalizado manipulacion dom
+91d3b5e57e78f17f7640d12d0dede67a451b0c61 91d3b5e57e78f17f7640d12d0dede67a451b0c61 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637626687 -0600	checkout: moving from manipulaciondom to 24
+91d3b5e57e78f17f7640d12d0dede67a451b0c61 d66a65b2b1ea90627602f0e346cae8c73fc373b0 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637627384 -0600	commit: multiple fixes
+d66a65b2b1ea90627602f0e346cae8c73fc373b0 d66a65b2b1ea90627602f0e346cae8c73fc373b0 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637627876 -0600	checkout: moving from 24 to 25
+d66a65b2b1ea90627602f0e346cae8c73fc373b0 a77b5ced5f1296d5832d044db500257ce824fba0 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637629654 -0600	commit: Fetch API
+a77b5ced5f1296d5832d044db500257ce824fba0 a77b5ced5f1296d5832d044db500257ce824fba0 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637688764 -0600	reset: moving to HEAD
+a77b5ced5f1296d5832d044db500257ce824fba0 46eb3e03b9f865e1eafbb0c6a58eba23945d2faa Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637688767 -0600	checkout: moving from 25 to main
+46eb3e03b9f865e1eafbb0c6a58eba23945d2faa b1413a236b1519c19451f42869366a54ef6590d8 Juan Pablo De la torre <blackmaxxgdl18@hotmail.com> 1637688772 -0600	pull origin main: Fast-forward
+b1413a236b1519c19451f42869366a54ef6590d8 bc709960acfc9bc64b0fc7e8d88382ffcdba23fa RETTERSDASP <87825681+RETTERSDASP@users.noreply.github.com> 1645849965 -0600	commit: 25-02-22
